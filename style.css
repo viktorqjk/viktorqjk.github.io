@@ -47,8 +47,8 @@ p {
   border-bottom: 1px grey solid;
   max-width: 38vh;
   margin-right: 1rem;
-  line-height: 25px;
-  padding-bottom: 2.5rem;
+  line-height: 20px;
+  padding-bottom: 2rem;
 
 }
 
@@ -150,9 +150,7 @@ h4 {
   line-height: 2.5rem;
   max-height: 55vh;
   min-height: 50vh;
-  max-width: 40vh;
-  min-width: 35vh;
-  width:100%;
+  width: 40vh;
 }
 
 footer {
