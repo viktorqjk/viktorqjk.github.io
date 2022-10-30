@@ -127,10 +127,9 @@ h4 {
 
 .box-3 {
   grid-area: box-3;
-  padding-top: 24rem;
-  margin-right: 15vh;
+  padding-top: 2rem;
+  margin-right: 5vh;
   line-height: 22px;
-  position: absolute;
   width: 40vh;
 }
 
