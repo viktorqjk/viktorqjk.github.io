@@ -152,6 +152,7 @@ h4 {
   min-height: 50vh;
   max-width: 40vh;
   min-width: 35vh;
+  width:100%;
 }
 
 footer {
