@@ -149,8 +149,9 @@ h4 {
   color: white;
   line-height: 2.5rem;
   max-height: 55vh;
+  min-height: 50vh;
   max-width: 40vh;
-
+  min-width: 35vh;
 }
 
 footer {
